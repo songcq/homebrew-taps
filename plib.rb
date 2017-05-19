@@ -3,7 +3,7 @@ require "formula"
 class Plib < Formula
   homepage "http://plib.sourceforge.net/index.html"
   url "http://plib.sourceforge.net/dist/plib-1.8.5.tar.gz"
-  sha256 "c2cf7e3e1e58f7b63dae4bb21e4fa82c3e4d4cfc"
+  sha256 "485b22bf6fdc0da067e34ead5e26f002b76326f6371e2ae006415dea6a380a32"
 
   patch :p1, :DATA
 
